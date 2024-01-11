@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-**Missing Device Name:** ex: iPhone 15 Pro
+Missing Device Name: ex: iPhone 15 Pro
 
-**Screen Dimensions:** ex: 1179x2556
+Screen Dimensions: ex: 1179x2556

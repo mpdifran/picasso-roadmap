@@ -1,10 +1,6 @@
 ![Picasso app icon](./Resources/AppIcon-macOS-128.png)
 
-# Picasso Roadmap
-The public roadmap for the Picasso application.
+# Picasso Roadmap - ARCHIVED
+The roadmap has moved [here](https://picasso.features.vote/board).
 
-Picasso is a developer tool designed to help create and manage screenshots for the App Store.
-
-[Submit an Issue](https://github.com/mpdifran/picasso-roadmap/issues)
-
-[Start a Discussion](https://github.com/mpdifran/picasso-roadmap/discussions) 
+This repo is archived, and all existing tickets have been moved to the above link.
